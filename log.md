@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+/*### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,11 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)*/
+
+### Day 1: August 13th, Monday
+**Today's Progress**: I've done some challenges on FreeCodeCamp and completed a challenge on Codewars.
+
+**Thoughts**: Javascript is hard to understand sometimes but it's lots of fun. It was fun seeing the things I do in 30 lines can actually be done in 3.
+
+**Links to Work**: [Reversing Strings]("https://www.codewars.com/users/konodachi/completed_solutions")
